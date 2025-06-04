@@ -40,8 +40,7 @@ A comprehensive Streamlit dashboard for implementing and analyzing swing trading
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/adani-group-trading-dashboard.git
-cd adani-group-trading-dashboard
+git clone https://github.com/aagams2910/adani-group-algorithmic-trading.git
 ```
 
 2. Install required packages:
@@ -91,15 +90,3 @@ The dashboard provides comprehensive performance analysis:
 - Win Rate
 - Average Win/Loss
 - Profit Factor
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Disclaimer
-
-This dashboard is for educational and research purposes only. It should not be used for actual trading without proper risk management and professional advice.
